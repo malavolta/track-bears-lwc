@@ -10,7 +10,7 @@
   null)</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
     <label>Age</label>
-    <precision>17</precision>
+    <precision>18</precision>
     <required>false</required>
     <scale>0</scale>
     <trackTrending>false</trackTrending>
